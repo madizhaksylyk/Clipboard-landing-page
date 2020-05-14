@@ -1,0 +1,47 @@
+.attribution {display: block; font-size: 11px; text-align: center; }
+.attribution a { color: #00b38f; }
+body {font-family: 'Bai Jamjuree', sans-serif;}
+p {color: #9fabb2; padding-bottom: 1rem; text-align: center;}
+h1 {color: #4c545d;}
+h2 {color: #4c545d; text-align: center;}
+h3 {color: #4c545d; margin-top: 2.5rem;}
+.history {text-align: center; padding-bottom: 2rem;}
+.header {background-image: url("images/bg-header-desktop.png"); padding-top: 2rem; padding-bottom: 2rem;}
+.ios {color: white;
+  background-color: #26baa4;
+  border-radius: 35px;
+  padding:  1rem;
+  width: 15%;
+  font-size: 1rem;
+  font-family: 'Bai Jamjuree', sans-serif; 
+}
+.ios:hover {background-color: #1a7f70;}
+
+.mac {color: white;
+  background-color: #6173ff;
+  border-radius: 35px;
+  padding:  1rem;
+  width: 15%;
+  font-size: 1rem;
+  font-family: 'Bai Jamjuree', sans-serif;  
+}
+.mac:hover {background-color: #0015b3;}
+
+.keeptrack
+.computer {float: left; width: 50%; height: 535.1px;}
+.list {display: inline-block; margin-left: 8rem; padding-top: 2rem; padding-bottom: 5rem;}
+.list p {text-align: left;}
+
+.access {text-align: center;}
+.row1 {margin: 2rem 8.5rem; display: inline-block; text-align: center;}
+.column1 {float: left; width: 30%; text-align: center; margin: 0 1rem;}
+.blacklist h3 {margin-top: 2rem;}
+.row2 {display: inline-block; text-align: center; margin: 2rem 9rem; }
+.column2 {float: left; text-align: center; margin: 0 2rem; display: inline-block; }
+
+.clipboard {text-align: center; }
+.last {margin-top: 8rem; height: 10rem;}
+.logo {float: left; margin: 0 4rem;}
+.grid-container {float: left; display: grid; grid-template-columns: auto auto auto; margin: 0 5rem;}
+.grid-item {padding: 1rem 2rem;}
+.icons {position: relative; left: 17rem; top: 36px;}
